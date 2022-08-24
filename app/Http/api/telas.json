@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "nivel": "1",
+        "prioridade": "URGENTE",
+        "prazo_s_suporte": "4h",
+        "prazo_c_suporte": "2 dias (48h)",
+        "nome": "Cadastro e documentaÃ§Ã£o"
+    },
+    {
+        "id": "2",
+        "nivel": "1",
+        "prioridade": "URGENTE",
+        "prazo_s_suporte": "4h",
+        "prazo_c_suporte": "2 dias (48h)",
+        "nome": "AnÃ¡lise de crÃ©dito"
+    },
+    {
+        "id": "3",
+        "nivel": "1",
+        "prioridade": "URGENTE",
+        "prazo_s_suporte": "4h",
+        "prazo_c_suporte": "2 dias (48h)",
+        "nome": "NegociaÃ§Ã£o"
+    },
+    {
+        "id": "4",
+        "nivel": "1",
+        "prioridade": "URGENTE",
+        "prazo_s_suporte": "4h",
+        "prazo_c_suporte": "2 dias (48h)",
+        "nome": "Contrato"
+    },
+    {
+        "id": "5",
+        "nivel": "1",
+        "prioridade": "URGENTE",
+        "prazo_s_suporte": "4h",
+        "prazo_c_suporte": "2 dias (48h)",
+        "nome": "Modelos de impressÃ£o - erros"
+    },
+    {
+        "id": "6",
+        "nivel": "1",
+        "prioridade": "URGENTE",
+        "prazo_s_suporte": "4h",
+        "prazo_c_suporte": "2 dias (48h)",
+        "nome": "Distratos"
+    },
+    {
+        "id": "7",
+        "nivel": "2",
+        "prioridade": "ALTA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "Filtros/exportaÃ§Ã£o de relatÃ³rios"
+    },
+    {
+        "id": "8",
+        "nivel": "2",
+        "prioridade": "ALTA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "GestÃ£o de empreendimentos"
+    },
+    {
+        "id": "9",
+        "nivel": "2",
+        "prioridade": "ALTA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "IntegraÃ§Ã£o com erps financeiros"
+    },
+    {
+        "id": "10",
+        "nivel": "3",
+        "prioridade": "MÃDIA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "Aditivos/renegociaÃ§Ã£o pela crÃ­tica"
+    },
+    {
+        "id": "11",
+        "nivel": "3",
+        "prioridade": "MÃDIA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "Comissionamento (modelos/neg./contrato)"
+    },
+    {
+        "id": "12",
+        "nivel": "3",
+        "prioridade": "MÃDIA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "Desconto (modelos/neg./contrato)"
+    },
+    {
+        "id": "13",
+        "nivel": "3",
+        "prioridade": "MÃDIA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "Boletos"
+    },
+    {
+        "id": "14",
+        "nivel": "3",
+        "prioridade": "MÃDIA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "Equipes"
+    },
+    {
+        "id": "15",
+        "nivel": "3",
+        "prioridade": "MÃDIA",
+        "prazo_s_suporte": "1 dia (24h)",
+        "prazo_c_suporte": "3 dias (72h)",
+        "nome": "UsuÃ¡rios"
+    },
+    {
+        "id": "16",
+        "nivel": "4",
+        "prioridade": "BAIXA",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "GestÃ£o de unidades"
+    },
+    {
+        "id": "17",
+        "nivel": "4",
+        "prioridade": "BAIXA",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Espelho de vendas"
+    },
+    {
+        "id": "18",
+        "nivel": "4",
+        "prioridade": "BAIXA",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Repasse e registro"
+    },
+    {
+        "id": "19",
+        "nivel": "4",
+        "prioridade": "BAIXA",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Dashboard"
+    },
+    {
+        "id": "20",
+        "nivel": "5",
+        "prioridade": "ORÇAMENTO",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "NotificaÃ§Ãµes erros"
+    },
+    {
+        "id": "21",
+        "nivel": "5",
+        "prioridade": "ORÇAMENTO",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "RelatÃ³rio diversos"
+    },
+    {
+        "id": "22",
+        "nivel": "5",
+        "prioridade": "ORÇAMENTO",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Cadastro de produtos"
+    },
+    {
+        "id": "23",
+        "nivel": "5",
+        "prioridade": "ORÇAMENTO",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Financeiro (e conciliaÃ§Ã£o)"
+    },
+    {
+        "id": "24",
+        "nivel": "5",
+        "prioridade": "ORÇAMENTO",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Tela de interaÃ§Ãµes"
+    },
+    {
+        "id": "25",
+        "nivel": "5",
+        "prioridade": "ORÇAMENTO",
+        "prazo_s_suporte": "3 dias (72h)",
+        "prazo_c_suporte": "5 dias (120h)",
+        "nome": "Modelos de impressÃ£o - novas tags/textos condicionantes"
+    }
+]

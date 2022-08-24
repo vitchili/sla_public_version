@@ -1,0 +1,110 @@
+/*Header style*/
+@media screen and (max-width: 920px){
+    #alarm-icon {
+        display: none;
+    }
+    #span-ola-nome-usuario {
+        display: none;
+    }
+    #user-icon {
+        display: none;
+    }
+}
+/*ASIDE MENU*/
+@media screen and (max-width: 1035px){
+    .verticalMenu {
+        position: fixed;
+        text-align: center;
+        top:75px;
+        background-color: #fff;
+        width: 100%;
+        height: 50px;
+        box-shadow: 1px 1px 1px rgba(1, 1, 1, .02);
+        margin-bottom: 50px;
+    }
+    .itensVerticalGroup {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+        width: 100%;
+        padding-top: 10px;
+        text-align: center;
+        margin-top: 5px;
+    }
+    #botaoEstender{
+        display: none;
+    }
+    .fa-arrow-circle-left{
+        display: none;
+    }
+}
+/*CORPO MANUAIS E VIDEOAULAS*/
+@media screen and (max-width: 920px){
+        .modulosManual{
+            display: block;
+            margin-top: 20px;
+        }
+        .fa-user-circle{
+            display:none;
+        }
+        .dommus-assign{
+            display: none;
+        }
+}
+/*CORPO WHITE*/
+@media screen and (max-width: 1025px){
+.white-section{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    box-shadow: 2px 2px 7px rgba(1, 1, 1, .03);
+    width: 99%;
+    z-index: 4;
+    margin: 15px auto 15px auto;
+}
+.blocoBody{
+    margin: 100px auto auto auto;
+    max-width: 94%;
+}
+.white-section-100{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    box-shadow: 2px 2px 7px rgba(1, 1, 1, .03);
+    max-width: 99%;
+    margin: 0px auto 0px auto;
+}
+.grid-agenda-form {
+    max-width: 99%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+}
+
+.white-section-invisible{
+    max-width: 99%;
+    margin: 15px auto 15px auto;
+}
+.white-section-card{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    box-shadow: 2px 2px 7px rgba(1, 1, 1, .03);
+    max-width: 95%;
+    margin: 10px auto 10px auto;
+}
+.white-section-card-invisible{
+    max-width: 95%;
+    margin: 10px auto 10px auto;
+}
+
+.white-section-toggle{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.white-section-invisible{
+    border-radius: 5px;
+    max-width: 99%;
+    margin: 15px auto 15px auto;
+}
+}
