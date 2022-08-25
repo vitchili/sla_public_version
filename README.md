@@ -1,5 +1,4 @@
-<b>Atenção</b>
-<p>Esta é a primeira versão do código do sistema Docsupp SLA <b>(Modelo 2019-2020)</b>. O projeto ainda existe e é utilizado no mercado, mas foi refatorado por completo e não condiz mais com a estrutura e realidade atual. Dessa forma, decidi divulgar em código aberto a primeira versão para estimular de alguma forma a comunidade PHP para estudo.</p>
+<p><b>Atenção: </b>Esta é a primeira versão do código do sistema Docsupp SLA <b>(Modelo 2019-2020)</b>. O projeto ainda existe e é utilizado no mercado, mas foi refatorado por completo e não condiz mais com a estrutura e realidade atual. Dessa forma, decidi divulgar em código aberto a primeira versão para estimular de alguma forma a comunidade PHP para estudo.</p>
 
 <p>Sistema de gestão e documentação que relaciona o fluxo de trabalho entre o setor de TI com o administrativo interno e os clientes que a instituição atende. 
 Toda empresa de tecnologia recebe demandas através do suporte e efetua o atendimento do helpdesk.</p>
