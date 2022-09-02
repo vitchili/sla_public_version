@@ -13,4 +13,7 @@ Este espaço não precisa de login para acessar, e possui uma base de conhecimen
 
 <p>Detalhe: o dump e arquivo de conexão não foram disponibilizados por segurança de estrutura</p>
 
-![alt text](prints_interface/login.jpg)
+![alt text](prints_interface/tasks_a_distribuir.jpg)
+
+![alt text](prints_interface/criacao_chamados.jpg)
+
