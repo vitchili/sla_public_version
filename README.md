@@ -1,4 +1,4 @@
-<p><b>Atenção: </b>Esta é a primeira versão do código do sistema Docsupp SLA <b>(Modelo 2019-2020)</b>. O projeto ainda existe e é utilizado no mercado, mas foi refatorado por completo e este código não condiz mais com a estrutura atual. Dessa forma, decidi divulgar em código aberto a primeira versão para estimular de alguma forma a comunidade PHP para estudo.</p>
+<p><b>Atenção: </b>Esta é a primeira versão do código do sistema Docsupp SLA (utilizado nos prints pelo suporte da Aquicob)<b>(Modelo 2019-2020)</b>. O projeto ainda existe e é utilizado no mercado, mas foi refatorado por completo e este código não condiz mais com a estrutura atual. Dessa forma, decidi divulgar em código aberto a primeira versão para estimular de alguma forma a comunidade PHP para estudo.</p>
 
 <p>Este é um sistema de gestão e documentação que relaciona o setor de TI, o administrativo e os clientes que a instituição atende.</p>
 <p>O contexto é: toda empresa de tecnologia recebe demandas através do suporte e efetua o atendimento do helpdesk.
@@ -12,3 +12,5 @@ Todos dados interagidos são gravados em logs para geração de relatórios de p
 Este espaço não precisa de login para acessar, e possui uma base de conhecimento distribuída em manuais, FAQ, canal de novidades e pesquisa por chamados abertos.</p>
 
 <p>Detalhe: o dump e arquivo de conexão não foram disponibilizados por segurança de estrutura</p>
+
+![alt text](prints_interface/login.jpg)
